@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+<h3><code>akash@github ~ $ ./contributions.sh</code></h3>
 
-## How can I edit this code?
+<img src="./contrib-heatmap.svg" width="860" alt="Akash's GitHub contribution graph — auto-refreshed daily" />
 
-There are several ways of editing your application.
+<br>
+<br>
 
-**Use Lovable**
+<!-- ascii portrait (left) + neofetch card (right). both svgs are 840x880,
+     so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <photo.jpg> && python scripts/make_ascii_svg.py
+     card:     python scripts/make_info_card.py -->
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+<h3><code>akash@github ~ $ whoami</code></h3>
 
-Changes made via Lovable will be committed automatically to this repo.
+<table>
+<tr>
+<td valign="top"><img src="./akash-ascii.svg" width="420" alt="Akash Mishra — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Akash Mishra — role, education, stack and projects" /></td>
+</tr>
+</table>
 
-**Use your preferred IDE**
+<br>
+<br>
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+<h3><code>akash@github ~ $ ./links.sh</code></h3>
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+<p><b>Full-Stack Developer · MERN · TypeScript</b></p>
 
-Follow these steps:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akash--mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-mishra-1a3875294)
+[![Vyapaar Setu](https://img.shields.io/badge/⚡_Vyapaar_Setu-live_project-22d3ee?style=for-the-badge&logo=vercel&logoColor=black)](https://vyapaarsetu-three.vercel.app/)
+[![NutriHope](https://img.shields.io/badge/NutriHope-Foundation-16a34a?style=for-the-badge&logo=vercel&logoColor=white)](https://nutrihope-foundation.vercel.app/)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+<br>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+</div>

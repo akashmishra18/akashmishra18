@@ -32,8 +32,9 @@ CARD = [
     ("Leads",      ["VP, Entrepreneurship Cell", "Medicaps · 50+ members"]),
     ("Stack",      ["React · Node · Express · MongoDB", "TypeScript · Tailwind · Java"]),
     ("Featured",   ["Vyapaar Setu  (live marketplace)"]),
-    ("Also",       ["Rashtra Samachar · 13-language", "AI newspaper platform"]),
-    ("Building",   ["Bahi-Khata  (to-do app, ledger vibe)"]),
+    ("Web",        ["NutriHope  (website)"]),
+    ("Agentic",    ["FlowPilot AI  (workflow automation)", "AI agents for game dev studios"]),
+    ("Also",       ["Rashtra Samachar  (AI newspaper)", "Bahi-Khata  (to-do app, building)"]),
     ("Certs",      ["Deloitte Technology & Business", "freeCodeCamp · Web Dev + JS"]),
 ]
 
